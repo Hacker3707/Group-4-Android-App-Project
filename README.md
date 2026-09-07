@@ -6,4 +6,4 @@ Repo này bao gồm các thành viên collab như sau:
 2. Hồ Minh Khang - MSSV: 31241023603 - ID GitHub: @khangho31241023603-star
 3. Mai Ngọc Ánh - MSSV: 31241022888- ID GitHub: @Meringoc17
 4. Ngô Gia Toàn - MSSV: - ID GitHub: @Toan696
-5. Nguyễn Đình Nghĩa - MSSV: 31241025766 - ID GitHub: @nghianguyen31241025766
+5. Nguyễn Đình Nghĩa - MSSV: 31241025766 - ID GitHub: @nghianguyen31241025766-prog
